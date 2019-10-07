@@ -13,9 +13,9 @@
 #include <Ticker.h>
 
 //#define WIFI_HTM_PROGMEM
-#define WIFI_HTM_GZ_PROGMEM
+//#define WIFI_HTM_GZ_PROGMEM
 
-#define WIFI_CONNECT_TIMEOUT 30
+#define WIFI_CONNECT_TIMEOUT 120
 
 class PersWiFiManager
 {
